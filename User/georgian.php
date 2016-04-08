@@ -102,7 +102,7 @@ $_LANG['cartexistingclientlogin'] = "არსებული მომხმა
 
 $_LANG['cartexistingclientlogindesc'] = "ამ შეკვეთის არსებულ ანგარიშზე მისაბმელად, საჭიროა გაიაროთ ავტორიზაცია.";
 $_LANG['cartnameserversdesc'] = "თუკი გსურთ გამოიყენოთ საკუთარი nameserver - მისამართი ქვემოთ შეიყვანეთ. ჩვეულებრივ, ახალ დომეინებს ავტომატურად ჩვენი nameserver ენიჭებათ.";
-$_LANG['cartproductaddons'] = "სერვისის დანამატები";
+$_LANG['cartproductaddons'] = "დამატებითი პროდუქტი";
 $_LANG['cartproductaddonschoosepackage'] = "პაკეტის არჩევა";
 $_LANG['cartproductaddonsnone'] = "No Addons Available for your Products &amp; Services";
 $_LANG['cartproductconfig'] = "პროდუქტების კონფიგურაცია";
@@ -274,7 +274,7 @@ $_LANG['clientareaunlimited'] = "ულიმიტო";
 $_LANG['clientareaupdatebutton'] = "განახლება";
 $_LANG['clientareaupdateyourdetails'] = "განახლეთ თქვენი მონაცემები";
 $_LANG['clientareaused'] = "გამოყენებული";
-$_LANG['clientareaviewaddons'] = "ხელმისაწვდომი დამატებები";
+$_LANG['clientareaviewaddons'] = "დამატებითი პროდუქტი";
 $_LANG['clientareaviewdetails'] = "მონაცემების ნახვა";
 $_LANG['clientlogin'] = "Client Login";
 $_LANG['clientregisterheadertext'] = "Please fill in the fields below to register for a new account.";
@@ -677,7 +677,7 @@ $_LANG['orderservernameserversdescription'] = "The prefixes you enter here will 
 $_LANG['orderservernameserversprefix1'] = "Prefix 1";
 $_LANG['orderservernameserversprefix2'] = "Prefix 2";
 $_LANG['orderserverrootpassword'] = "Root Password";
-$_LANG['ordersetupfee'] = "Setup Fee";
+$_LANG['ordersetupfee'] = "ინსტალაციის ფასი";
 $_LANG['orderstartover'] = "Start Over";
 $_LANG['ordersubdomaininuse'] = "The subdomain you entered is already in use";
 $_LANG['ordersubtotal'] = "Subtotal";
@@ -687,14 +687,14 @@ $_LANG['ordertaxstaterequired'] = "You must enter your state for tax calculation
 $_LANG['ordertitle'] = "Order";
 $_LANG['ordertos'] = "ხელშეკრულება";
 $_LANG['ordertosagreement'] = "მე წავიკითხე";
-$_LANG['ordertotalduetoday'] = "Total Due Today";
+$_LANG['ordertotalduetoday'] = "სულ გადასახდელია";
 $_LANG['ordertotalrecurring'] = "Total Recurring";
 $_LANG['ordertransferdomain'] = "Transfer an Existing Domain Name";
 $_LANG['ordertransfersecret'] = "Transfer Secret";
 $_LANG['ordertransfersecretexplanation'] = "Please enter the Domain Transfer Secret which can be obtained from the current Registrar of the Domain Name. ";
-$_LANG['orderusesubdomain'] = "Use Subdomain";
+$_LANG['orderusesubdomain'] = "ქვედომეინის გამოყენება";
 $_LANG['orderyears'] = "Year/s";
-$_LANG['orderyourinformation'] = "Your Information";
+$_LANG['orderyourinformation'] = "თქვენი ინფო";
 $_LANG['orderyourorder'] = "თქვენი შეკვეთა";
 $_LANG['organizationname'] = "ორგანიზაციის სახელწოდება";
 $_LANG['outofstock'] = "ამოწურულია";
@@ -936,7 +936,7 @@ $_LANG['subaccountSsoDenied'] = "You do not have permission to login using Singl
 $_LANG['knowledgebasealsoread'] = "Also Read";
 
 $_LANG['orderpaymenttermtriennially'] = "Triennially";
-$_LANG['orderpaymentterm36month'] = "36 Month Price";
+$_LANG['orderpaymentterm36month'] = "36 თვის ღირებულება";
 
 $_LANG['domainrenewals'] = "Domain Renewals";
 $_LANG['domaindaysuntilexpiry'] = "Days Until Expiry";
@@ -1004,8 +1004,8 @@ $_LANG['domainreleasetag'] = "New Registrar Tag";
 
 $_LANG['orderformtitle'] = "Order Form";
 
-$_LANG['signup'] = "Signup";
-$_LANG['loading'] = "Loading...";
+$_LANG['signup'] = "რეგისტრაცია";
+$_LANG['loading'] = "დაელოდეთ...";
 
 $_LANG['ordersummarybegin'] = "Please choose a product to begin";
 
@@ -1991,9 +1991,9 @@ $_LANG['orderForm']['continueToClientArea'] = "გადადი მოხმ�
 $_LANG['orderForm']['reviewDomainAndAddons'] = "Please review your domain name selections and any addons that are available for them.";
 $_LANG['orderForm']['addToCart'] = "კალათაში დამატება";
 $_LANG['orderForm']['addedToCartRemove'] = "დაემატა კალათაში (წაშლა)";
-$_LANG['orderForm']['configureDesiredOptions'] = "Configure your desired options and continue to checkout.";
+$_LANG['orderForm']['configureDesiredOptions'] = "შეარჩიეთ სასურველი პარამეტრები და შემდგომ შეუკვეთეთ.";
 $_LANG['orderForm']['haveQuestionsContact'] = "გაქვთ კითხვები? დაუკავშირდით ჩვენს ოპერატორს.";
-$_LANG['orderForm']['use'] = "გამოყენება";
+$_LANG['orderForm']['use'] = "გაგრძელება";
 $_LANG['orderForm']['check'] = "შემოწმება";
 $_LANG['orderForm']['transfer'] = "ტრანსფერი";
 $_LANG['orderForm']['domainAddedToCart'] = "დომეინი თქვენს კალათაში დაემატა.";
