@@ -875,7 +875,7 @@ $_LANG['clientareafiles'] = "Attached Files";
 $_LANG['clientareafilesdate'] = "Date Added";
 $_LANG['clientareafilesfilename'] = "Filename";
 
-$_LANG['pwreset'] = "დაკარგული პაროლის აღდგენა";
+$_LANG['pwreset'] = "პაროლის აღდგენა";
 $_LANG['pwresetdesc'] = "თუკი პაროლი დაგავიწყდათ - შეგიძლია აქვე აღადგინოთ. როდესაც მიუთითებთ ელ.ფოსტას, რომლითაც დარეგისტრირდით (და უპასუხებთ საიდუმლო კითხვას), გამოგეგზავნებათ ინსტრუქციები თუ როგორ უნდა აღადგინოთ პაროლი.";
 $_LANG['pwresetemailrequired'] = "გთხოვთ შეიყვანეთ თქვენი ელ.ფოსტა";
 $_LANG['pwresetemailnotfound'] = "მითითებულ მოსამართზე მომხმარებელი არ მოიძებნა";
@@ -1267,7 +1267,7 @@ $_LANG['backtoserviceslist'] = "&laquo; Back to Services List";
 $_LANG['backtodomainslist'] = "&laquo; Back to Domains List";
 
 $_LANG['clientareahomeorder'] = "Visit the Order Form to browse the Products & Services we offer. Existing customers can also purchase optional extras and addons here.";
-$_LANG['clientareahomelogin'] = "უკვე რეგისტრირებული ხართ? თუ ასეა, დააკლიკეთ ქვემოთ მოცემულ ღილაკს, გაიარეთ ავტორიზაცია და ისარგებლეთ მომხმარებლის უპირატესობებით.";
+$_LANG['clientareahomelogin'] = "უკვე რეგისტრირებული ხართ? თუ ასეა, დააჭირეთ ქვემოთ მოცემულ ღილაკს, გაიარეთ ავტორიზაცია და ისარგებლეთ მომხმარებლის უპირატესობებით.";
 $_LANG['clientareahomeorderbtn'] = "Go to Order Form";
 $_LANG['clientareahomeloginbtn'] = "Secure Client Login";
 
@@ -1725,7 +1725,7 @@ $_LANG['supportAndUpdatesExpiredLicense'] = "Your Support & Updates period for t
 $_LANG['supportAndUpdatesRenewalRequired'] = "Support & Updates access needs to be renewed before you can access this download.";
 $_LANG['supportAndUpdatesClickHereToRenew'] = "Click Here to Renew";
 
-$_LANG['pwresetemailneeded'] = "Forgotten your password? Enter your email address below to begin the reset process.";
+$_LANG['pwresetemailneeded'] = "დაგავიწყდათ პაროლი? შეიყვანეთ თქვენი ელ. ფოსტა ქვემოთ და დააჭირეთ დასტურის ღილკს.";
 
 $_LANG['quotestageexpired'] = "ვადაგასულია";
 
