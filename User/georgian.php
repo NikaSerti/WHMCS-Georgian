@@ -1309,8 +1309,8 @@ $_LANG['managing'] = "Managing";
 $_LANG['information'] = "Information";
 $_LANG['withselected'] = "With Selected";
 $_LANG['managedomain'] = "დომეინის მართვა";
-$_LANG['changenameservers'] = "Change Nameservers";
-$_LANG['clientareadomainmanagedns'] = "Manage DNS";
+$_LANG['changenameservers'] = "NameServer შეცვლა";
+$_LANG['clientareadomainmanagedns'] = "DNS მართვა";
 $_LANG['clientareadomainmanageemailfwds'] = "Manage Email Forwards";
 $_LANG['moduleactionsuccess'] = "Action Completed Successfully!";
 $_LANG['moduleactionfailed'] = "Action Failed";
@@ -1324,10 +1324,10 @@ $_LANG['domaincurrentlyunlockedexp'] = "You should enable the registrar lock unl
 $_LANG['searchmultipletlds'] = "Search Multiple TLDs";
 
 $_LANG['networkstatustitle'] = "ქსელის სტატუსი";
-$_LANG['networkstatusnone'] = "There are no %s Network Issues Currently";
+$_LANG['networkstatusnone'] = "ამჟამად არ არის %s ქსელური შეფერხებები";
 $_LANG['serverstatusheadingtext'] = "Below is a real-time overview of our servers where you can check if there's any known issues.";
 
-$_LANG['clientareacancelreasonrequired'] = "You must enter a cancellation reason";
+$_LANG['clientareacancelreasonrequired'] = "თქვენ უნდა შეიყვანოთ გაუქმების მიზეზები";
 
 $_LANG['addfundsdescription'] = "Add funds to your account with us to avoid lots of small transactions and to automatically take care of any new invoices to generate.";
 $_LANG['addfundsnonrefundable'] = "* All deposits are non-refundable.";
