@@ -125,7 +125,7 @@ $_LANG['clickheretologin'] = "შესვლისთვის აქ დაა
 $_LANG['clientareaaccountaddons'] = "Account Addons";
 $_LANG['clientareaactive'] = "აქტივაცია";
 $_LANG['clientareaaddfundsdisabled'] = "We do not allow depositing funds in advance with us at the current time.";
-$_LANG['clientareaaddfundsnotallowed'] = "You must have at least one active order before you can add funds so you cannot proceed at the current time!";
+$_LANG['clientareaaddfundsnotallowed'] = "თქვენ უნდა გქონდეთ სულ მცირე ერთი აქტიური პროდუქტი, რომ შეძლოთ ანგარიშის შევსება!";
 $_LANG['clientareaaddon'] = "დანამატი";
 $_LANG['clientareaaddonorderconfirmation'] = "Thank You. Your order for the addon shown below has been placed. Please choose your method of payment from below.";
 $_LANG['clientareaaddonpricing'] = "ღირებულება";
@@ -864,7 +864,7 @@ $_LANG['varilogixfraudcall_failed'] = "Failed";
 $_LANG['varilogixfraudcall_pincode'] = "Pin კოდი";
 $_LANG['varilogixfraudcall_title'] = "VariLogix FraudCall";
 $_LANG['viewcart'] = "კალათის ნახვა";
-$_LANG['welcomeback'] = "Welcome Back";
+$_LANG['welcomeback'] = "მოგესალმებით";
 $_LANG['whoisresults'] = "WHOIS Results for";
 $_LANG['yes'] = "Yes";
 $_LANG['yourdetails'] = "თქვენი მონაცემები";
@@ -1329,8 +1329,8 @@ $_LANG['serverstatusheadingtext'] = "Below is a real-time overview of our server
 
 $_LANG['clientareacancelreasonrequired'] = "თქვენ უნდა შეიყვანოთ გაუქმების მიზეზები";
 
-$_LANG['addfundsdescription'] = "Add funds to your account with us to avoid lots of small transactions and to automatically take care of any new invoices to generate.";
-$_LANG['addfundsnonrefundable'] = "* All deposits are non-refundable.";
+$_LANG['addfundsdescription'] = "დაამატეთ თანხა თქვენს ანგარიშზე, რომ თავიდან აირიდოთ მცირე ტრანზაქციები ავტომატურად მოხდეს ახალი დაგენერირებული ინვოისების გადახდა.";
+$_LANG['addfundsnonrefundable'] = "* ჩარიცხული თანხა არ უბრუნდება მფლობელს.";
 
 $_LANG['creditcardexpirydateinvalid'] = "The expiry date must be entered in the format MM/YY and must not be in the past";
 
@@ -1587,7 +1587,7 @@ $_LANG['affiliatesconversionrate'] = "Conversions";
 $_LANG['affiliatesclicks'] = "კლიკები";
 $_LANG['contacts'] = "კონტაქტები";
 $_LANG['backtoservicedetails'] = "Back to Service Details";
-$_LANG['invoicesintro'] = "Your invoice history with us";
+$_LANG['invoicesintro'] = "თქვენი ინვოისების ისტორია ჩვენთან";
 
 $_LANG['sidebars']['viewAccount']['yourAccount'] = "თქვენი ანგარიში";
 $_LANG['sidebars']['viewAccount']['myDetails'] = "ჩემი მონაცემები";
@@ -1611,9 +1611,9 @@ $_LANG['managecontacts'] = "კონტაქტების მართვა
 $_LANG['billingdetails'] = "საბილინგო დეტალები";
 $_LANG['homechooseproductservice'] = "Choose a product/service to manage:";
 
-$_LANG['invoicesdue'] = "Invoices Due";
-$_LANG['invoicesduemsg'] = "You have %s invoice(s) currently unpaid with a total balance of %s";
-$_LANG['noinvoicesduemsg'] = "You have no unpaid invoices at this time.";
+$_LANG['invoicesdue'] = "გადასახდელი ინვოისი";
+$_LANG['invoicesduemsg'] = "თქვენ გაქვთ %s გადაუხდელი ინვოისი, რომელთა საერთო გადასახადია %s";
+$_LANG['noinvoicesduemsg'] = "ამჟამად არ არის გადაუხდელი ინვოისები.";
 
 $_LANG['expiringsoon'] = "Expiring Soon";
 
@@ -1802,8 +1802,8 @@ $_LANG['clientHomePanels']['overdueInvoices'] = "გადასახდელ�
 $_LANG['clientHomePanels']['overdueInvoicesMsg'] = "You have :numberOfInvoices overdue invoice(s) with a total balance due of :balanceDue. Pay them now to avoid any interruptions in service.";
 $_LANG['clientHomePanels']['domainsExpiringSoon'] = "Domains Expiring Soon";
 $_LANG['clientHomePanels']['domainsExpiringSoonMsg'] = "You have :numberOfDomains domain(s) expiring within the next :days days. Renew them today for peace of mind.";
-$_LANG['clientHomePanels']['activeProductsServices'] = "Your Active Products/Services";
-$_LANG['clientHomePanels']['activeProductsServicesNone'] = "It appears you do not have any products/services with us yet. <a href=\"cart.php\">Place an order to get started</a>.";
+$_LANG['clientHomePanels']['activeProductsServices'] = "თქვენი აქტიური სერვისები";
+$_LANG['clientHomePanels']['activeProductsServicesNone'] = "როგორც ჩანს თქვენ არ გაქვთ აქტიური სერვისი. <a href=\"cart.php\">თქვენ შეგიძლია შეუკვეთოთ ის ამ ბმულზე</a>.";
 $_LANG['clientHomePanels']['recentNews'] = "ბოლო განახლებები";
 $_LANG['clientHomePanels']['affiliateProgram'] = "პარტნიორული პროგრამა";
 $_LANG['clientHomePanels']['recentSupportTickets'] = "ბოლო დახმარების ბილეთები.";
@@ -1927,7 +1927,7 @@ $_LANG['cPanel']['billingOverview'] = "Billing Overview";
 
 $_LANG['liveHelp']['chatNow'] = "მიწერე ახლავე";
 
-$_LANG['quotes'] = "Quotes";
+$_LANG['quotes'] = "შეთავაზებები";
 
 $_LANG['productMustBeActiveForModuleCmds'] = "Product must be active to perform this action";
 $_LANG['domainCannotBeManagedUnlessActive'] = "This domain is not currently active. Domains cannot be managed unless active.";
