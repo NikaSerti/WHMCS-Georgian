@@ -662,7 +662,7 @@ $_LANG['orderprogress'] = "Progress";
 $_LANG['orderpromoexpired'] = "The promotion code entered has expired";
 $_LANG['orderpromoinvalid'] = "The promotion code entered does not apply to any items in your order";
 $_LANG['orderpromomaxusesreached'] = "The promotion code entered has already been used";
-$_LANG['orderpromotioncode'] = "პრომო კოდი";
+$_LANG['orderpromotioncode'] = "ფასდაკლების კოდი";
 $_LANG['orderpromovalidatebutton'] = "Validate Code";
 $_LANG['orderPromoCodePlaceholder'] = "Enter promo code if you have one";
 $_LANG['orderprorata'] = "Pro Rata";
@@ -1019,9 +1019,9 @@ $_LANG['ordertostickconfirm'] = "Please tick to confirm you agree to the";
 $_LANG['cartnewcustomer'] = "ახალი მომხმარებელი";
 $_LANG['cartexistingcustomer'] = "არსებული მომხმარებელი";
 
-$_LANG['cartpromo'] = "პრომო";
-$_LANG['cartenterpromo'] = "შეიყვანე პრომო კოდი";
-$_LANG['cartremovepromo'] = "პრომოს მოხსნა";
+$_LANG['cartpromo'] = "ფასდაკლება";
+$_LANG['cartenterpromo'] = "შეიყვანე ფასდაკლების კოდი";
+$_LANG['cartremovepromo'] = "ფასდაკლების მოხსნა";
 
 $_LANG['cartrecurringcharges'] = "Recurring Charges";
 
@@ -1053,39 +1053,39 @@ $_LANG['orderpromoprestart'] = "This promotion has not yet started. Please try a
 
 $_LANG['ticketmerge'] = "MERGED";
 
-$_LANG['quote'] = "Quote";
-$_LANG['quotestitle'] = "My Quotes";
-$_LANG['quoteview'] = "View";
-$_LANG['quotedownload'] = "Download";
-$_LANG['quoteacceptbtn'] = "Accept Quote";
-$_LANG['quotedlpdfbtn'] = "Download PDF";
-$_LANG['quotediscountheading'] = "Discount (%)";
-$_LANG['noquotes'] = "There are currently no quotes saved under your account.<br />To request a quote, please open a ticket.";
-$_LANG['quotenumber'] = "Quote #";
+$_LANG['quote'] = "შეთავაზება";
+$_LANG['quotestitle'] = "ჩემი შეთავაზებები";
+$_LANG['quoteview'] = "ნახვა";
+$_LANG['quotedownload'] = "ჩამოტვირთვა";
+$_LANG['quoteacceptbtn'] = "შეთავაზების მიღება";
+$_LANG['quotedlpdfbtn'] = "PDF ჩამოტვირთვა";
+$_LANG['quotediscountheading'] = "ფასდაკლება (%)";
+$_LANG['noquotes'] = "ამჟამად თქვენს ანგარიშზე არაა არცერთი შეთავაზება.<br />შეთავაზების მისაღებად გთხოვთ გახსნათ დახმარების ბილეთი.";
+$_LANG['quotenumber'] = "შეთავაზება #";
 $_LANG['quotesubject'] = "Subject";
-$_LANG['quotedatecreated'] = "Date Created";
+$_LANG['quotedatecreated'] = "შექმნის დრო";
 $_LANG['quotevaliduntil'] = "Valid Until";
 $_LANG['quotestage'] = "Stage";
 $_LANG['quoterecipient'] = "Recipient";
-$_LANG['quoteqty'] = "Qty";
-$_LANG['quotedesc'] = "Description";
+$_LANG['quoteqty'] = "რდნ";
+$_LANG['quotedesc'] = "აღწერა";
 $_LANG['quoteunitprice'] = "Unit Price";
-$_LANG['quotediscount'] = "Discount %";
-$_LANG['quotelinetotal'] = "Total";
+$_LANG['quotediscount'] = "ფასდაკლება %";
+$_LANG['quotelinetotal'] = "სულ";
 $_LANG['quotestagedraft'] = "Draft";
-$_LANG['quotestagedelivered'] = "Delivered";
-$_LANG['quotestageonhold'] = "On Hold";
-$_LANG['quotestageaccepted'] = "Accepted";
-$_LANG['quotestagelost'] = "Expired";
-$_LANG['quotestagedead'] = "Expired";
+$_LANG['quotestagedelivered'] = "მოწოდებული";
+$_LANG['quotestageonhold'] = "შეჩერებული";
+$_LANG['quotestageaccepted'] = "დათანხმებული";
+$_LANG['quotestagelost'] = "ვადაგასული";
+$_LANG['quotestagedead'] = "ვადაგასული";
 $_LANG['quoteref'] = "Re Quote #";
 $_LANG['quotedeposit'] = "Deposit";
 $_LANG['quotefinalpayment'] = "Balance from Deposit";
 
-$_LANG['invoiceoneoffpayment'] = "Make One Off Payment";
-$_LANG['invoicesubscriptionpayment'] = "Create Automated Recurring Subscription";
+$_LANG['invoiceoneoffpayment'] = "ერთჯერადი გადახდა";
+$_LANG['invoicesubscriptionpayment'] = "ავტომატური გადახდა";
 
-$_LANG['invoicepaymentpendingreview'] = "Thank You! Your payment was successful and will be applied to your invoice as soon as 2CheckOut's Review Process has completed.<br /><br />This can take up to a few hours so your patience is appreciated.";
+$_LANG['invoicepaymentpendingreview'] = "მადლობა! Your payment was successful and will be applied to your invoice as soon as 2CheckOut's Review Process has completed.<br /><br />This can take up to a few hours so your patience is appreciated.";
 
 $_LANG['step'] = "Step %s";
 $_LANG['cartdomainexists'] = "This domain already exists in our database so cannot be ordered again";
@@ -1145,10 +1145,10 @@ $_LANG['orderpromofreesetup'] = "Free Setup";
 $_LANG['thereisaproblem'] = "Oops, there's a problem...";
 $_LANG['problemgoback'] = "Go back & try again";
 
-$_LANG['quantity'] = "Quantity";
-$_LANG['cartqtyenterquantity'] = "Want more than 1 of this item? Enter Quantity Here:";
-$_LANG['cartqtyupdate'] = "Update";
-$_LANG['invoiceqtyeach'] = "/each";
+$_LANG['quantity'] = "რაოდენობა";
+$_LANG['cartqtyenterquantity'] = "გსრუთ ერთზე მეტი?? შეიყვანეთ რაოდენობა აქ:";
+$_LANG['cartqtyupdate'] = "განახლება";
+$_LANG['invoiceqtyeach'] = "/თითო";
 
 $_LANG['nschoicedefault'] = "Use default nameservers";
 $_LANG['nschoicecustom'] = "Use custom nameservers (enter below)";
@@ -1628,8 +1628,8 @@ $_LANG['servername'] = "სერვერის დასახელება"
 $_LANG['visitwebsite'] = "ეწვიეთ საიტს";
 $_LANG['whoisinfo'] = "WHOIS ინფო";
 
-$_LANG['tableshowing'] = "ნაჩვენებია _START_ დან _END_ სულ _TOTAL_ ჩანაწერი";
-$_LANG['tableempty'] = "ნაჩვენებია 0 დან 0 სულ 0 ჩანაწერი";
+$_LANG['tableshowing'] = "ნაჩვენებია _START_ დან _END_ - სულ _TOTAL_ ჩანაწერი";
+$_LANG['tableempty'] = "ნაჩვენებია 0 დან 0 - სულ 0 ჩანაწერი";
 $_LANG['tablefiltered'] = "(ფილტრირებული სულ _MAX_ ჩანაწერიდან)";
 $_LANG['tablelength'] = "მაქს. _MENU_ ჩვენება";
 $_LANG['tableloading'] = "დაელოდეთ...";
