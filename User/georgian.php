@@ -218,7 +218,7 @@ $_LANG['clientareahostingaddonsintro'] = "თქვენ გაქვთ შე
 $_LANG['clientareahostingaddonsview'] = "ნახვა";
 $_LANG['clientareahostingamount'] = "რაოდენობა";
 $_LANG['clientareahostingdomain'] = "დომეინი";
-$_LANG['clientareahostingnextduedate'] = "შემდ. გადახდ. თარიღი";
+$_LANG['clientareahostingnextduedate'] = "გადახდის თარიღი";
 $_LANG['clientareahostingpackage'] = "პაკეტი";
 $_LANG['clientareahostingregdate'] = "რეგისტრაციის თარიღი";
 $_LANG['clientarealastname'] = "გვარი";
@@ -569,7 +569,7 @@ $_LANG['nextpage'] = "შემდეგ გვერდი";
 $_LANG['no'] = "არა";
 $_LANG['nocarddetails'] = "No existing card details on record";
 $_LANG['none'] = "არცერთი";
-$_LANG['norecordsfound'] = "ჩანაწერები არ მოიძებნა.";
+$_LANG['norecordsfound'] = "ჩანაწერები ვერ მოიძებნა.";
 $_LANG['or'] = "ან";
 $_LANG['orderadditionalrequiredinfo'] = "Additional Required Information";
 $_LANG['orderaddon'] = "Addon";
@@ -657,12 +657,12 @@ $_LANG['orderpaymenttermonetime'] = "ერთჯერადად";
 $_LANG['orderpaymenttermquarterly'] = "კვარტალურად";
 $_LANG['orderpaymenttermsemiannually'] = "ნახევარ-წლიურად";
 $_LANG['orderprice'] = "ღირებულება";
-$_LANG['orderproduct'] = "Product/Service";
+$_LANG['orderproduct'] = "სერვისები";
 $_LANG['orderprogress'] = "Progress";
 $_LANG['orderpromoexpired'] = "The promotion code entered has expired";
 $_LANG['orderpromoinvalid'] = "The promotion code entered does not apply to any items in your order";
 $_LANG['orderpromomaxusesreached'] = "The promotion code entered has already been used";
-$_LANG['orderpromotioncode'] = "პრომო კოდი"; #საშეღავათო, წამახალისებელი თუ უბრალოდ პრომო.
+$_LANG['orderpromotioncode'] = "პრომო კოდი";
 $_LANG['orderpromovalidatebutton'] = "Validate Code";
 $_LANG['orderPromoCodePlaceholder'] = "Enter promo code if you have one";
 $_LANG['orderprorata'] = "Pro Rata";
@@ -803,9 +803,9 @@ $_LANG['supportticketsstatus'] = "სტატუსი";
 $_LANG['supportticketsstatusanswered'] = "პასუხგაცემული";
 $_LANG['supportticketsstatusclosed'] = "დახურული";
 $_LANG['supportticketsstatuscloseticket'] = "If resolved, click here to close the ticket";
-$_LANG['supportticketsstatuscustomerreply'] = "Customer-Reply";
-$_LANG['supportticketsstatusinprogress'] = "In Progress";
-$_LANG['supportticketsstatusonhold'] = "On Hold";
+$_LANG['supportticketsstatuscustomerreply'] = "პასუხგაუცემელი";
+$_LANG['supportticketsstatusinprogress'] = "მიმდინარე";
+$_LANG['supportticketsstatusonhold'] = "შეჩერებული";
 $_LANG['supportticketsstatusopen'] = "გახსნილი";
 $_LANG['supportticketssubject'] = "წერილის თემა";
 $_LANG['supportticketssubmitticket'] = "ბილეთის გახსნა";
@@ -949,33 +949,33 @@ $_LANG['domainrenewalsdaysago'] = "Days Ago";
 $_LANG['invoicespartialpayments'] = "Partial Payments";
 $_LANG['invoicestotaldue'] = "Total Due";
 
-$_LANG['masspaytitle'] = "Mass Payment";
-$_LANG['masspaydescription'] = "Below is a summary of the selected invoices and the total due to pay all of them. To submit payment please just choose your desired payment method below and then submit.";
-$_LANG['masspayselected'] = "Pay Selected";
-$_LANG['masspayall'] = "Pay All";
-$_LANG['masspaymakepayment'] = "Make Payment";
+$_LANG['masspaytitle'] = "სრული გადახდა";
+$_LANG['masspaydescription'] = "ქვემოთ მოცემულია მონიშნული ინვოისების გადასახადის ჯამი, რომლის გადახდაც გსურთ. გთხოვთ არიჩიოთ გადახდის სასურველი გზა და დააჭირეთ დასტურის ღილაკს.";
+$_LANG['masspayselected'] = "არჩეულის გადახდა";
+$_LANG['masspayall'] = "ყველას გადახდა";
+$_LANG['masspaymakepayment'] = "გადახდა";
 
 # Version 4.3
 
 $_LANG['searchenterdomain'] = "Enter Domain to Find";
-$_LANG['searchfilter'] = "Filter";
+$_LANG['searchfilter'] = "ფილტრი";
 
 $_LANG['suspendreason'] = "Suspension Reason";
 $_LANG['suspendreasonoverdue'] = "Overdue on Payment";
 
 $_LANG['vpsnetmanagement'] = "VPS Management";
 $_LANG['vpsnetpowermanagement'] = "Power Management";
-$_LANG['poweron'] = "Power On";
-$_LANG['poweroffforced'] = "Power Off (Forced)";
-$_LANG['powerreboot'] = "Reboot";
-$_LANG['powershutdown'] = "Shutdown";
-$_LANG['vpsnetcpugraphs'] = "CPU Graphs";
-$_LANG['vpsnetnetworkgraphs'] = "Network Graphs";
-$_LANG['vpsnethourly'] = "Hourly";
-$_LANG['vpsnetdaily'] = "Daily";
-$_LANG['vpsnetweekly'] = "Weekly";
-$_LANG['vpsnetmonthly'] = "Monthly";
-$_LANG['view'] = "View";
+$_LANG['poweron'] = "ჩართვა";
+$_LANG['poweroffforced'] = "გამორთვა (იძულებით)";
+$_LANG['powerreboot'] = "გადატვირთვა";
+$_LANG['powershutdown'] = "გამორთვა";
+$_LANG['vpsnetcpugraphs'] = "CPU სტატისტიკა";
+$_LANG['vpsnetnetworkgraphs'] = "ქსელური სტატისტიკა";
+$_LANG['vpsnethourly'] = "საათობრივი";
+$_LANG['vpsnetdaily'] = "დღიური";
+$_LANG['vpsnetweekly'] = "კვირეული";
+$_LANG['vpsnetmonthly'] = "თვიური";
+$_LANG['view'] = "ნახვა";
 $_LANG['vpsnetbackups'] = "Backup Options";
 $_LANG['vpsnetgenbackup'] = "Generate Backup";
 $_LANG['vpsnetrestorebackup'] = "Restore Backup";
@@ -1002,26 +1002,26 @@ $_LANG['domainreleasetag'] = "New Registrar Tag";
 
 # Ajax Order Form
 
-$_LANG['orderformtitle'] = "Order Form";
+$_LANG['orderformtitle'] = "შეკვეთის ფორმა";
 
 $_LANG['signup'] = "რეგისტრაცია";
 $_LANG['loading'] = "დაელოდეთ...";
 
-$_LANG['ordersummarybegin'] = "Please choose a product to begin";
+$_LANG['ordersummarybegin'] = "დასაწყებად არიჩიეთ რომელიმე სერვისი";
 
-$_LANG['cartchooseproduct'] = "Choose Product";
+$_LANG['cartchooseproduct'] = "სერვისის არჩევა";
 $_LANG['cartconfigurationoptions'] = "Configuration Options";
 
 $_LANG['ordererrorsoccurred'] = "The following errors occurred and must be corrected before checkout:";
 $_LANG['ordererrortermsofservice'] = "The Terms of Service must be agreed to";
 $_LANG['ordertostickconfirm'] = "Please tick to confirm you agree to the";
 
-$_LANG['cartnewcustomer'] = "I'm a New Customer";
-$_LANG['cartexistingcustomer'] = "I'm an Existing Customer";
+$_LANG['cartnewcustomer'] = "ახალი მომხმარებელი";
+$_LANG['cartexistingcustomer'] = "არსებული მომხმარებელი";
 
-$_LANG['cartpromo'] = "Promotion";
-$_LANG['cartenterpromo'] = "Enter Promotion Code";
-$_LANG['cartremovepromo'] = "Remove Promo";
+$_LANG['cartpromo'] = "პრომო";
+$_LANG['cartenterpromo'] = "შეიყვანე პრომო კოდი";
+$_LANG['cartremovepromo'] = "პრომოს მოხსნა";
 
 $_LANG['cartrecurringcharges'] = "Recurring Charges";
 
@@ -1224,8 +1224,8 @@ $_LANG['bundlewarningdomainaddon'] = "The selected bundle requires you select th
 # New Client Area Template  Lines
 
 $_LANG['navservices'] = "სერვისები";
-$_LANG['navservicesorder'] = "ახალი სერვისის შეკვეთა";
-$_LANG['navservicesplaceorder'] = "Place a New Order";
+$_LANG['navservicesorder'] = "ახალი შეკვეთა";
+$_LANG['navservicesplaceorder'] = "ახალი შეკვეთა";
 $_LANG['navdomains'] = "დომეინები";
 $_LANG['navrenewdomains'] = "დომეინის გახანგრძლივება";
 $_LANG['navregisterdomain'] = "დომეინის დარეგისტრირება";
@@ -1248,7 +1248,7 @@ $_LANG['forgotpw'] = "დაგავიწყდათ პაროლი?";
 $_LANG['editaccountdetails'] = "ანგარიშის მონაცემების ჩასწორება";
 
 $_LANG['clientareanavccdetails'] = "საკრედიტო ბარაფ";
-$_LANG['clientareanavcontacts'] = "Contacts/Sub-Accounts";
+$_LANG['clientareanavcontacts'] = "კონტაქტები/ქვე-ანგარიშები";
 
 $_LANG['manageyouraccount'] = "ანგარიშის მართვა";
 $_LANG['accountoverview'] = "ანგარიშის შეჯამება";
@@ -1628,10 +1628,10 @@ $_LANG['servername'] = "სერვერის დასახელება"
 $_LANG['visitwebsite'] = "ეწვიეთ საიტს";
 $_LANG['whoisinfo'] = "WHOIS ინფო";
 
-$_LANG['tableshowing'] = "Showing _START_ to _END_ of _TOTAL_ entries";
-$_LANG['tableempty'] = "Showing 0 to 0 of 0 entries";
-$_LANG['tablefiltered'] = "(filtered from _MAX_ total entries)";
-$_LANG['tablelength'] = "Show _MENU_ entries";
+$_LANG['tableshowing'] = "ნაჩვენებია _START_ დან _END_ სულ _TOTAL_ ჩანაწერი";
+$_LANG['tableempty'] = "ნაჩვენებია 0 დან 0 სულ 0 ჩანაწერი";
+$_LANG['tablefiltered'] = "(ფილტრირებული სულ _MAX_ ჩანაწერიდან)";
+$_LANG['tablelength'] = "მაქს. _MENU_ ჩვენება";
 $_LANG['tableloading'] = "დაელოდეთ...";
 $_LANG['tableprocessing'] = "იტვირთება...";
 $_LANG['tablepagesfirst'] = "პირველი";
@@ -1718,7 +1718,7 @@ $_LANG['sslnoconfigurationpossible'] = "წარმატებით დაკ
 $_LANG['adminloggedin'] = "თქვენ შემოსული ხართ, როგორც ადმინისტრატორი.";
 $_LANG['returntoadminarea'] = "მართვის პანელში დაბრუნება";
 $_LANG['adminmasqueradingasclient'] = "პანელს ათვალიერებთ როგორც მომხმარებელი.";
-$_LANG['logoutandreturntoadminarea'] = "გამოსვლა და მართვის პანელში დაბრუნება";
+$_LANG['logoutandreturntoadminarea'] = "მართვის პანელში დაბრუნება";
 
 $_LANG['supportAndUpdatesExpired'] = "Support & Updates are expired.";
 $_LANG['supportAndUpdatesExpiredLicense'] = "Your Support & Updates period for this license has expired";
