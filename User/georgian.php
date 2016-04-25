@@ -1020,20 +1020,20 @@ $_LANG['cartnewcustomer'] = "ახალი მომხმარებელ�
 $_LANG['cartexistingcustomer'] = "არსებული მომხმარებელი";
 
 $_LANG['cartpromo'] = "ფასდაკლება";
-$_LANG['cartenterpromo'] = "შეიყვანე ფასდაკლების კოდი";
+$_LANG['cartenterpromo'] = "შეიყვანეთ ფასდაკლების კოდი";
 $_LANG['cartremovepromo'] = "ფასდაკლების მოხსნა";
 
 $_LANG['cartrecurringcharges'] = "Recurring Charges";
 
 $_LANG['cartenterdomain'] = "Please enter the domain you would like to use below.";
 
-$_LANG['cartdomainavailableoptions'] = "Congratulations, this domain is available!";
+$_LANG['cartdomainavailableoptions'] = "გილოცავთ, ეს დომეინი ხელმისაწვდომია!";
 $_LANG['cartdomainavailableregister'] = "Please register this domain for";
-$_LANG['cartdomainavailablemanual'] = "I will register it myself seperately";
+$_LANG['cartdomainavailablemanual'] = "მოგვიანებით, დამოუკიდებლად დავარეგისტრირებ.";
 
-$_LANG['cartdomainunavailableoptions'] = "Sorry, this domain is already taken. If you are the owner, please choose an option below...";
+$_LANG['cartdomainunavailableoptions'] = "ვწუხვართ, ეს დომეინი დაკავებულია. თუ თქვენ თავად ხართ ამ დომეინის მფლობელი, აირჩიეთ ქვემოთ მოცემული მითითებებიდან ერთ-ერთი...";
 $_LANG['cartdomainunavailabletransfer'] = "Please transfer my domain for";
-$_LANG['cartdomainunavailablemanual'] = "I already own this domain and will update the nameservers";
+$_LANG['cartdomainunavailablemanual'] = "მე უკვე ვფლობ ამ დომეინს და განვაახლებ nameserver-ებს.";
 
 $_LANG['cartdomaininvalid'] = "The domain you entered is not valid. Enter only the part after the www. and include the TLD";
 
@@ -1046,7 +1046,7 @@ $_LANG['domainemailforwardinglaunch'] = "Launch Mail Forwarding Manager";
 
 # Version 4.5
 
-$_LANG['domaindnspriority'] = "Priority";
+$_LANG['domaindnspriority'] = "პრიორიტეტი";
 $_LANG['domaindnsmxonly'] = "Priority Record for MX Only";
 
 $_LANG['orderpromoprestart'] = "This promotion has not yet started. Please try again later.";
@@ -1062,10 +1062,10 @@ $_LANG['quotedlpdfbtn'] = "PDF ჩამოტვირთვა";
 $_LANG['quotediscountheading'] = "ფასდაკლება (%)";
 $_LANG['noquotes'] = "ამჟამად თქვენს ანგარიშზე არაა არცერთი შეთავაზება.<br />შეთავაზების მისაღებად გთხოვთ გახსნათ დახმარების ბილეთი.";
 $_LANG['quotenumber'] = "შეთავაზება #";
-$_LANG['quotesubject'] = "Subject";
+$_LANG['quotesubject'] = "თემა";
 $_LANG['quotedatecreated'] = "შექმნის დრო";
-$_LANG['quotevaliduntil'] = "Valid Until";
-$_LANG['quotestage'] = "Stage";
+$_LANG['quotevaliduntil'] = "მოქმედების სასრული";
+$_LANG['quotestage'] = "ეტაპი";
 $_LANG['quoterecipient'] = "Recipient";
 $_LANG['quoteqty'] = "რდნ";
 $_LANG['quotedesc'] = "აღწერა";
