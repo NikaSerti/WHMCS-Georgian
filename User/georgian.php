@@ -1182,7 +1182,7 @@ $_LANG['domainautorenewinfo'] = "Auto renew helps protect your domain. When enab
 $_LANG['domainautorenewrecommend'] = "We recommend keeping auto renew enabled to avoid losing your domain.";
 
 $_LANG['domainreglockstatus'] = "რეგისტრანტის ბლოკის სტატუსი";
-$_LANG['domainreglockinfo'] = "რეგისტრანტის ბლოკი (ცნობილი როგორც "Theft Protection") იცავს თქვენს დომეინს არა ავტორიზებული ტრანსფერებისგან.";
+$_LANG['domainreglockinfo'] = "რეგისტრანტის ბლოკი (ცნობილი როგორც \"Theft Protection\") იცავს თქვენს დომეინს არა ავტორიზებული ტრანსფერებისგან.";
 $_LANG['domainreglockrecommend'] = "ჩვენი გირჩევთ ჩართოთ რეგისტრანტის ბლოკი, except when transferring your Domain Name away.";
 $_LANG['domainreglockenable'] = "რეგისტრანტის ბლოკის ჩართვა";
 $_LANG['domainreglockdisable'] = "რეგისტრანტის ბლოკის გამორთვა";
