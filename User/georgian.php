@@ -959,7 +959,7 @@ $_LANG['invoicestotaldue'] = "Total Due";
 $_LANG['masspaytitle'] = "სრული გადახდა";
 $_LANG['masspaydescription'] = "ქვემოთ მოცემულია მონიშნული ინვოისების გადასახადის ჯამი, რომლის გადახდაც გსურთ. გთხოვთ არიჩიოთ გადახდის სასურველი გზა და დააჭირეთ დასტურის ღილაკს.";
 $_LANG['masspayselected'] = "არჩეულის გადახდა";
-$_LANG['masspayall'] = "ყველას გადახდა";
+$_LANG['masspayall'] = "გადახდა";
 $_LANG['masspaymakepayment'] = "გადახდა";
 
 # Version 4.3
@@ -1619,7 +1619,7 @@ $_LANG['billingdetails'] = "საბილინგო დეტალები
 $_LANG['homechooseproductservice'] = "აირჩიეთ პროდუქტი/სერვისი სამართავად:";
 
 $_LANG['invoicesdue'] = "გადასახდელი ინვოისები";
-$_LANG['invoicesduemsg'] = "თქვენ გაქვთ %s გადაუხდელი ინვოისი, რომელთა საერთო გადასახადია %s";
+$_LANG['invoicesduemsg'] = "თქვენ გაქვთ %s გადაუხდელი ინვოისი, რომლის(რომელთა) საერთო გადასახადია %s";
 $_LANG['noinvoicesduemsg'] = "ამჟამად არ არის გადაუხდელი ინვოისები.";
 
 $_LANG['expiringsoon'] = "ვადის გასვლამდე ცოტაღა დარჩა";
