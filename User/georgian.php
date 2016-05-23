@@ -47,7 +47,7 @@ $_LANG['affiliatesearn'] = "გამომუშავება";
 $_LANG['affiliatesearningstodate'] = "გამომუშავებული თანხა შემდეგი თარიღისთვის";
 $_LANG['affiliatesfootertext'] = "როდესაც თქვენი რეფერალ ლინკით ვინმეს ჩვენს საიტზე გადმოამისამართებთ, ეს ინფორმაცია კომპიუტერში 'cookies' სახით შეინახება და თუკი ეს ადამიანი გარკვეული დროის გასვლის შემდეგ იყიდის მომსახურეობას, თქვენ საკომისიოს მაინც დაგერიცხებათ";
 $_LANG['affiliateshostingpackage'] = "ჰოსტინგის პაკეტი";
-$_LANG['affiliatesintrotext'] = "Activate your affiliate account today to:";
+$_LANG['affiliatesintrotext'] = "დღესვე გააქტიურეთ პარტნიორული პროგრამა:";
 $_LANG['affiliateslinktous'] = "ჩვენი ბმული";
 $_LANG['affiliatesnosignups'] = "ამჟამად თქვენ არ გყავთ არცერთი რეფერალი";
 $_LANG['affiliatesrealtime'] = "სტატისტიკა მოცემულია რეალურ რეჟიმში, რომელიც ყოველ წამს ახლდება";
@@ -104,7 +104,11 @@ $_LANG['cartexistingclientlogindesc'] = "ამ შეკვეთის არ�
 $_LANG['cartnameserversdesc'] = "თუკი გსურთ გამოიყენოთ საკუთარი NameServer - მისამართი ქვემოთ შეიყვანეთ. ჩვეულებრივ, ახალ დომეინებს ავტომატურად ჩვენი NameServer ენიჭებათ.";
 $_LANG['cartproductaddons'] = "დამატებითი პროდუქტი";
 $_LANG['cartproductaddonschoosepackage'] = "პაკეტის არჩევა";
+<<<<<<< HEAD
 $_LANG['cartproductaddonsnone'] = "თქვენი სერვისისთვის დანამატები არ არის";
+=======
+$_LANG['cartproductaddonsnone'] = "თქვენ მიერ არჩეული პრუდქტისთვის/სერვისისთვის დამატებით პროდუქტები ხელმიუწვდომელია";
+>>>>>>> origin/master
 $_LANG['cartproductconfig'] = "პროდუქტების კონფიგურაცია";
 $_LANG['cartproductdesc'] = "The product/service you have chosen has the following configuration options for you to choose from.";
 $_LANG['cartproductdomain'] = "დომეინები";
@@ -113,7 +117,7 @@ $_LANG['cartproductdomaindesc'] = "The product/service you have chosen requires 
 $_LANG['cartproductdomainuseincart'] = "Use a domain already in my shopping cart";
 $_LANG['cartremove'] = "მოხსნა";
 $_LANG['cartremoveitemconfirm'] = "ნამდვილად გსურთ ამ სერვისის კალათიდან ამოგდება?";
-$_LANG['carttaxupdateselections'] = "Tax may be charged depending upon the state and country selections you make. Click to recalculate after making your choices.";
+$_LANG['carttaxupdateselections'] = "გადასახადი შესაძლოა შეიცვალოს ქვეყნების მიხედვით. არჩევის შემდეგ დააჭირეთ, რათა ხელახლა გამოთვალოთ გადასახადები. ";
 $_LANG['carttaxupdateselectionsupdate'] = "განახლება";
 $_LANG['carttitle'] = "კალათა";
 $_LANG['changessavedsuccessfully'] = "ცვლილები წარმატებით შეინახა!";
@@ -127,7 +131,7 @@ $_LANG['clientareaactive'] = "აქტივაცია";
 $_LANG['clientareaaddfundsdisabled'] = "ამჟამად ჩვენთან დეპოზიტის შევსება არ არის ნებადართული.";
 $_LANG['clientareaaddfundsnotallowed'] = "თქვენ უნდა გქონდეთ სულ მცირე ერთი აქტიური სერვისი, რათა შეძლოთ ანგარიშის შევსება!";
 $_LANG['clientareaaddon'] = "დანამატი";
-$_LANG['clientareaaddonorderconfirmation'] = "Thank You. Your order for the addon shown below has been placed. Please choose your method of payment from below.";
+$_LANG['clientareaaddonorderconfirmation'] = "გმადლობთ. თქვენი შეკვეთა განთავსებულია. ახლა კი გადახდის მეთოდი აირჩიეთ.";
 $_LANG['clientareaaddonpricing'] = "ღირებულება";
 $_LANG['clientareaaddonsfor'] = "დანამატები";
 $_LANG['clientareaaddress1'] = "მისამართი 1";
@@ -141,9 +145,8 @@ $_LANG['clientareacancel'] = "ცვლილებების გაუქმ�
 $_LANG['clientareabwusage'] = "გამოყენებული ტრაფიკი";
 $_LANG['clientareacancel'] = "ცვლილებების გაუქმება";
 
-$_LANG['clientareacancelconfirmation'] = "Thank You. Your cancellation request has been submitted. If you have done this in error, open a support ticket to notify us immediately or your account may be terminated.";
-$_LANG['clientareacancelinvalid'] = "This account has already had a cancellation request submitted so you cannot submit another.";
-$_LANG['clientareacancellationendofbillingperiod'] = "End of Billing Period";
+$_LANG['clientareacancelconfirmation'] = "გმადლობთ. გაუქმების მოთხოვნა დადასტურდა. თუ თქვენ შემთხვევით გააუქმეთ მომსახურეობა, გთხოვთ დაგვიკავშირდით, რათა თქვენი მონაცემები არ წაიშალოს. .";
+$_LANG['clientareacancelinvalid'] = "ამ ანგარიშის გაუქმების მოთხოვნა უკვე მიღებულია, ამიტომაც ხელმეორედ ვერ მოითხოვთ.";
 $_LANG['clientareacancellationimmediate'] = "მყისიერი";
 $_LANG['clientareacancellationtype'] = "გაუქმების ტიპი";
 $_LANG['clientareacancelled'] = "გაუქმებული";
@@ -153,7 +156,7 @@ $_LANG['clientareacancelrequest'] = "ანგარიშის გაუქმ
 $_LANG['clientareacancelrequestbutton'] = "გაუქმების მოთხოვნა";
 $_LANG['clientareachangepassword'] = "შეცვალეთ თქვენი პაროლი";
 
-$_LANG['clientareachangesuccessful'] = "Your Details Were Changed Successfully";
+$_LANG['clientareachangesuccessful'] = "თქვენი მონაცემები შეიცვალა";
 
 $_LANG['clientareachangesuccessful'] = "თქვენი მონაცემები წარმატებით შეიცვალა";
 
@@ -205,7 +208,7 @@ $_LANG['clientareaerrorpasswordnotmatch'] = "შეყვანილი პა�
 $_LANG['clientareaerrorphonenumber'] = "არ შეგიყვანიათ ტელეფონის ნომერი";
 $_LANG['clientareaerrorphonenumber2'] = "ტელეფონის ნომერი არასწორია";
 $_LANG['clientareaerrorpostcode'] = "არ შეგიყვანიათ საფოსტო ინდექსი";
-$_LANG['clientareaerrorpostcode2'] = "Your postcode can only contain letters, numbers and spaces";
+$_LANG['clientareaerrorpostcode2'] = "საფოსტო მისამართ უნდა შეიცავდეს მხოლოდ ციფრებს ან ასოებს.";
 $_LANG['clientareaerrors'] = "დაფიქსირდა შემდეგი შეცდომები:";
 $_LANG['clientareaerrorstate'] = "არ მიგითითებიათ თქვენი რეგიონი";
 $_LANG['clientareaexpired'] = "დროგასული";
@@ -225,7 +228,11 @@ $_LANG['clientarealastname'] = "გვარი";
 $_LANG['clientarealastupdated'] = "ბოლოს განახლდა";
 $_LANG['clientarealeaveblank'] = "თუკი არ გსურთ პაროლის შეცვლა - დატოვეთ ცარიელი.";
 $_LANG['clientareamodifydomaincontactinfo'] = "დომეინის საკონტაქტო ინფორმაციის შეცვლა";
+<<<<<<< HEAD
 $_LANG['clientareamodifynameservers'] = "NameServer-ების ცვლილება";
+=======
+$_LANG['clientareamodifynameservers'] = "Nameserver-ების ცვლილება";
+>>>>>>> origin/master
 $_LANG['clientareamodifywhoisinfo'] = "WHOIS საკონტაქტო ინფორმაციის შეცვლა";
 $_LANG['clientareanameserver'] = "NameServer";
 
@@ -1789,19 +1796,19 @@ $_LANG['quoteacceptagreetos'] = "To accept the quote, please confirm your accept
 $_LANG['quoteacceptcontractwarning'] = "Please be aware that accepting a quote is considered entering into a contract and you will not be able to cancel once accepted.";
 
 // Client alerts
-$_LANG['clientAlerts']['creditCardExpiring'] = "Your credit card :creditCardType-:creditCardLastFourDigits expires within :days days. Please update it at your earliest convenience.";
-$_LANG['clientAlerts']['domainsExpiringSoon'] = "You have :numberOfDomains domain(s) expiring within the next :days days.";
-$_LANG['clientAlerts']['invoicesUnpaid'] = "You have :numberOfInvoices unpaid invoice(s). Pay them early for peace of mind.";
-$_LANG['clientAlerts']['invoicesOverdue'] = "You have :numberOfInvoices overdue invoice(s) with a total balance due of :balanceDue. Pay them now to avoid any interuptions in service.";
-$_LANG['clientAlerts']['creditBalance'] = "თქვენს საკერდიტო ბალანსზეა :creditBalance.";
+$_LANG['clientAlerts']['creditCardExpiring'] = "თქვენი საკრედიტო ბარათს :creditCardType-:creditCardLastFourDigits ვადა გასდის :days დღეში. განაახლეთ ის, რაც შეძლებისდაგვარად მალე";
+$_LANG['clientAlerts']['domainsExpiringSoon'] = "თქვენ :numberOfDomains დომეინს ვადა გასდის :days დღეში.";
+$_LANG['clientAlerts']['invoicesUnpaid'] = "თქვენ გაქვთ :numberOfInvoices გადაუხდელი ინვოისი. გადაიხადეთ, რაც შეიძლება მალე, რათა იყოთ გათიშვისგან დაზღვეულნი";
+$_LANG['clientAlerts']['invoicesOverdue'] = "თქვენ გაქვთ :numberOfInvoices გადასახდელი ინვოისი - გადასახადის შემდეგი ოდენობით :balanceDue. გადაიხადეთ მალევე, რათა თავიდან აიცილოთ მომსახურეობის შეწყვეტა.";
+$_LANG['clientAlerts']['creditBalance'] = "თქვენს საკრედიტო ბალანსზეა :creditBalance.";
 
 // Client homepage panels
 $_LANG['clientHomePanels']['unpaidInvoices'] = "გადაუხდელი ინვოისები";
-$_LANG['clientHomePanels']['unpaidInvoicesMsg'] = "You have :numberOfInvoices unpaid invoice(s) with a total balance due of :balanceDue. Pay them early for peace of mind.";
+$_LANG['clientHomePanels']['unpaidInvoicesMsg'] = "თქვენ გაქვთ :numberOfInvoices გადაუხდელი ინვოისი - გადასახადის შემდეგი ოდენობით :balanceDue. გადაიხადეთ მალევე, რათა იყოთ გათიშვისგან დაზღვეულნი.";
 $_LANG['clientHomePanels']['overdueInvoices'] = "გადასახდელი ინვოისები";
-$_LANG['clientHomePanels']['overdueInvoicesMsg'] = "You have :numberOfInvoices overdue invoice(s) with a total balance due of :balanceDue. Pay them now to avoid any interruptions in service.";
-$_LANG['clientHomePanels']['domainsExpiringSoon'] = "Domains Expiring Soon";
-$_LANG['clientHomePanels']['domainsExpiringSoonMsg'] = "You have :numberOfDomains domain(s) expiring within the next :days days. Renew them today for peace of mind.";
+$_LANG['clientHomePanels']['overdueInvoicesMsg'] = "თქვენ გაქვთ :numberOfInvoices გადაუხდელი ინვოისი - გადასახადის შემდეგი ოდენობით :balanceDue. გადაიხადეთ მალევე, რათა თავიდან აიცილოთ მომსახურეობის შეწყვეტა.";
+$_LANG['clientHomePanels']['domainsExpiringSoon'] = "დომეინების აქტიურობის ვადა იწურება";
+$_LANG['clientHomePanels']['domainsExpiringSoonMsg'] = "თქვენ :numberOfDomains დომეინს ვადა გასდის :days დღეში. დღესვე გაახანგრძლივეთ მისი ვადა(ები), რათა იყოთ გამორთვისგან დაზღვეულნი.";
 $_LANG['clientHomePanels']['activeProductsServices'] = "თქვენი აქტიური სერვისები";
 $_LANG['clientHomePanels']['activeProductsServicesNone'] = "როგორც ჩანს თქვენ არ გაქვთ აქტიური სერვისი. <a href=\"cart.php\">თქვენ შეგიძლია შეუკვეთოთ ის ამ ბმულზე</a>.";
 $_LANG['clientHomePanels']['recentNews'] = "ბოლო განახლებები";
@@ -1844,7 +1851,7 @@ $_LANG['clientHomeSearchKb'] = "შეიყვანეთ კითხვა �
 $_LANG['whoisContactWarning'] = "It is important to keep your domain WHOIS contact information up-to-date at all times to avoid losing control of your domain.";
 
 $_LANG['paymentstodate'] = "Payments to Date";
-$_LANG['balancedue'] = "Balance Due";
+$_LANG['balancedue'] = "გადასახდელი თანხა";
 $_LANG['submitpayment'] = "გადახდის დადასტურება";
 
 $_LANG['domaincheckeravailable'] = "ხელმისაწვდომია";
@@ -1899,7 +1906,7 @@ $_LANG['cPanel']['usageStatsDiskLimitNear'] = "უახლოვდებით
 $_LANG['cPanel']['usageUpgradeNow'] = "Upgrade Now";
 $_LANG['cPanel']['usageLastUpdated'] = "ბოლოს განახლდა";
 
-$_LANG['cPanel']['quickShortcuts'] = "Quick Shortcuts";
+$_LANG['cPanel']['quickShortcuts'] = "მალსახმობი";
 $_LANG['cPanel']['emailAccounts'] = "ელ.ფოსტის ანგარიშები";
 $_LANG['cPanel']['forwarders'] = "Forwarders";
 $_LANG['cPanel']['autoresponders'] = "Autoresponders";
@@ -2010,16 +2017,16 @@ $_LANG['orderForm']['update'] = "განახლება";
 $_LANG['orderForm']['remove'] = "წაშლა";
 $_LANG['orderForm']['applyPromoCode'] = "Apply Promo Code";
 $_LANG['orderForm']['estimateTaxes'] = "Estimate Taxes";
-$_LANG['orderForm']['removePromotionCode'] = "Remove Promotion Code";
+$_LANG['orderForm']['removePromotionCode'] = "ფასდაკლების კოდის წაშლა";
 $_LANG['orderForm']['updateTotals'] = "Update Totals";
-$_LANG['orderForm']['continueShopping'] = "Continue Shopping";
-$_LANG['orderForm']['removeItem'] = "Remove Item";
+$_LANG['orderForm']['continueShopping'] = "შესყიდვების გაგრძელება";
+$_LANG['orderForm']['removeItem'] = "ნივთს ამოშლა";
 $_LANG['orderForm']['yes'] = "Yes";
 $_LANG['orderForm']['cancel'] = "Cancel";
-$_LANG['orderForm']['close'] = "Close";
-$_LANG['orderForm']['totals'] = "Totals";
-$_LANG['orderForm']['includedWithPlans'] = "Included With Every Plan";
-$_LANG['orderForm']['whatIsIncluded'] = "What is Included?";
+$_LANG['orderForm']['close'] = "დახურვა";
+$_LANG['orderForm']['totals'] = "ჯამი";
+$_LANG['orderForm']['includedWithPlans'] = "მოყვება თითოეულ პაკეტს";
+$_LANG['orderForm']['whatIsIncluded'] = "კიდევ რა მოყვება?";
 $_LANG['orderForm']['errorNoProductGroup'] = "Could not load any product groups.";
 $_LANG['orderForm']['errorNoProducts'] = "Product group does not contain any visible products";
 
@@ -2035,7 +2042,7 @@ $_LANG['cloudSlider']['feature03DescriptionTwo'] = "A wide range of security too
 
 $_LANG['domainChecker.additionalPricingOptions'] = 'Additional Pricing Options For :domain';
 
-$_LANG['orderpaymenttermfree'] = "Free";
+$_LANG['orderpaymenttermfree'] = "უფასო";
 
 $_LANG['cPanel']['usageStatsBwOverLimit'] = "You have exceeded your bandwidth limit.";
 $_LANG['cPanel']['usageStatsDiskOverLimit'] = "You have exceeded your disk space limit.";
