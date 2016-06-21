@@ -432,7 +432,7 @@ $_LANG['downloadsfiles'] = "ფაილები";
 $_LANG['downloadsfilesize'] = "ფაილის ზომა";
 $_LANG['downloadsintrotext'] = "The download library has all the manuals, programs and other files that you may need to get your website up and running.";
 $_LANG['downloadspopular'] = "ხშირად გადმოწერილი ფაილები";
-$_LANG['downloadsnone'] = "ჩამოსატვირთი ფაილები არაა";
+$_LANG['downloadsnone'] = "ჩამოსატვირთი ფაილები არ არის";
 $_LANG['downloadstitle'] = "ფაილები";
 $_LANG['email'] = "Email";
 $_LANG['emptycart'] = "კალათა ცარიელია";
@@ -1371,7 +1371,7 @@ $_LANG['jobtitlereqforcompany'] = "(Required if Organization Name is set)";
 $_LANG['downloadproductrequired'] = "Downloading this item requires you to have an active instance of the following product/service:";
 
 $_LANG['affiliatesignuptitle'] = "Get Paid for Referring Customers to Us";
-$_LANG['affiliatesignupintro'] = "Activate your affiliate account and start earning money today...";
+$_LANG['affiliatesignupintro'] = "Activate your affiliate account and start earning money today... გააქტიურეთ თქვენი აფილეიტ ანგარიში და დღესვე დაიწყეთ თანხის გამომუშავება";
 $_LANG['affiliatesignupinfo1'] = "We pay commissions for every signup that comes via your custom signup link.";
 $_LANG['affiliatesignupinfo2'] = "We track the visitors you refer to us using cookies, so users you refer don't have to purchase instantly for you to receive your commission.  Cookies last for up to 90 days following the initial visit.";
 $_LANG['affiliatesignupinfo3'] = "If you would like to find out more, please contact us.";
@@ -1587,7 +1587,7 @@ $_LANG['ssofatalerror'] = "A fatal error occurred. Please contact support.";
 $_LANG['announcementschoosemonth'] = "აირჩიეთ თვე";
 $_LANG['announcementsbymonth'] = "თვეებით";
 $_LANG['announcementsolder'] = "ძველი განცხადებები";
-$_LANG['createnewcontact'] = "ახალი კონტაქტი...";
+$_LANG['createnewcontact'] = "კონტაქტის დამატება...";
 $_LANG['due'] = "Due";
 $_LANG['affiliatessignups'] = "რეგისტრაცია";
 $_LANG['affiliatesconversionrate'] = "Conversions";
@@ -1646,14 +1646,14 @@ $_LANG['tablepageslast'] = "ბოლო";
 $_LANG['tablepagesnext'] = "შემდეგი";
 $_LANG['tablepagesprevious'] = "წინა";
 $_LANG['tableviewall'] = "ყველა";
-$_LANG['tableentersearchterm'] = "შეიყვანეთ საძიებო სიტყვა...";
+$_LANG['tableentersearchterm'] = "ძიება...";
 
 $_LANG['actions'] = "მოქმედებები";
 
 $_LANG['upgradedowngradeshort'] = "აწევა/დაწევა";
 
-$_LANG['masspayintro'] = "Pay all these invoices in one step";
-$_LANG['masspaymentselectgateway'] = "Select Mass Payment Gateway";
+$_LANG['masspayintro'] = "გადაიხადე ყველა ინვოისი ერთდროულად";
+$_LANG['masspaymentselectgateway'] = "აირჩიეთ მასობრივი გადახდის საშუალება";
 
 $_LANG['ticketfeedbackrequest'] = "Feedback Request";
 $_LANG['ticketfeedbackforticket'] = "for Ticket #";
@@ -1888,14 +1888,14 @@ $_LANG['licensingaddon']['reissue'] = "Reissue";
 $_LANG['licensingaddon']['reissuestatusmsg'] = "The Valid Domain, IP and Directory will be detected & saved the next time the license is accessed.";
 $_LANG['licensingaddon']['manageLicense'] = "ლიცენზიების მართვა";
 
-$_LANG['affiliateWithdrawalSummary'] = "You will be able to request a withdrawal as soon as your balance reaches the minimum required amount of :amountForWithdrawal.";
+$_LANG['affiliateWithdrawalSummary'] = "თქვენ შეძლებთ თანხის განაღდებას სწორედ მაშინ, როდესაც თქვენს ანგარიშზე მინიმუმ :amountForWithdrawal დაგროვდება.";
 
 $_LANG['projectManagement']['activeProjects'] = "თქვენი აქტიური პროექტები";
 
 # cPanel Module
 
 $_LANG['cPanel']['packageDomain'] = "Package/Domain";
-$_LANG['cPanel']['addonsExtras'] = "Addons & Extras";
+$_LANG['cPanel']['addonsExtras'] = "დამატებითი პროდუქტები";
 $_LANG['cPanel']['purchaseActivate'] = "ყიდვა და გააქტიურება";
 
 $_LANG['cPanel']['usageStats'] = "გამოყენებადობის სტატისტიკა";
@@ -1908,8 +1908,8 @@ $_LANG['cPanel']['usageLastUpdated'] = "ბოლოს განახლდა
 
 $_LANG['cPanel']['quickShortcuts'] = "მალსახმობი";
 $_LANG['cPanel']['emailAccounts'] = "ელ.ფოსტის ანგარიშები";
-$_LANG['cPanel']['forwarders'] = "Forwarders";
-$_LANG['cPanel']['autoresponders'] = "Autoresponders";
+$_LANG['cPanel']['forwarders'] = "გადამმისამართებელი";
+$_LANG['cPanel']['autoresponders'] = "ავტომოპასუხე";
 $_LANG['cPanel']['fileManager'] = "ფაილების მენეჯერი";
 $_LANG['cPanel']['backup'] = "Backup";
 $_LANG['cPanel']['subdomains'] = "ქვედომეინები";
@@ -1919,7 +1919,7 @@ $_LANG['cPanel']['mysqlDatabases'] = "MySQL Databases";
 $_LANG['cPanel']['phpMyAdmin'] = "phpMyAdmin";
 $_LANG['cPanel']['awstats'] = "Awstats";
 
-$_LANG['cPanel']['createEmailAccount'] = "Quick Create Email Account";
+$_LANG['cPanel']['createEmailAccount'] = "ელ.ფოსტის სწრაფადვე შექმნა";
 $_LANG['cPanel']['usernamePlaceholder'] = "Yourname";
 $_LANG['cPanel']['passwordPlaceholder'] = "სასურველი პაროლი";
 $_LANG['cPanel']['create'] = "შექმნა";
@@ -1930,7 +1930,7 @@ $_LANG['cPanel']['packageNotActive'] = "This hosting package is currently";
 $_LANG['cPanel']['statusPendingNotice'] = "You cannot begin using this hosting account until it is activated.";
 $_LANG['cPanel']['statusSuspendedNotice'] = "You cannot continue to use or manage this package until it is reactivated.";
 
-$_LANG['cPanel']['billingOverview'] = "Billing Overview";
+$_LANG['cPanel']['billingOverview'] = "გადახდების მიმოხილვა";
 
 $_LANG['liveHelp']['chatNow'] = "მიწერე ახლავე";
 
