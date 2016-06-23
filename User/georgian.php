@@ -1861,7 +1861,7 @@ $_LANG['domaincheckeradding'] = "ემატება";
 $_LANG['domaincheckeradded'] = "დაემატა";
 $_LANG['domaincheckernomoresuggestions'] = "That's all the results we have for you! If you still haven't found what you're looking for, please try a different search term or keyword.";
 $_LANG['domaincheckerunabletooffertld'] = "Unfortunately we are unable to register this TLD at this time";
-$_LANG['domaincheckerbulkplaceholder'] = "Enter up to 20 domain names.\nEach name must be on a separate line.\n\nExamples:\nexample.com\nexample.net";
+$_LANG['domaincheckerbulkplaceholder'] = "შეგიძლია შეიყვანოთ 20-მდე დომეინი.\nერთ ველზე მიუთითეთ მხოლოდ ერთი სახელწოდება.\n\nმაგალითები:\nhostnodes.com\nhostnodes.net";
 
 $_LANG['domainchecker']['suggestiontakentitle'] = "დომეინი ხელმიუწვდომელია";
 $_LANG['domainchecker']['suggestiontakenmsg'] = "Unfortunately the domain you selected is unavailable. This can sometimes occur if the domain has been registered recently. Please go back and choose another domain.";
