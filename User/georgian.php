@@ -1859,12 +1859,12 @@ $_LANG['domaincheckertransferable'] = "ტრანსფერისთვი�
 $_LANG['domaincheckertaken'] = "დაკავებულია";
 $_LANG['domaincheckeradding'] = "ემატება";
 $_LANG['domaincheckeradded'] = "დაემატა";
-$_LANG['domaincheckernomoresuggestions'] = "That's all the results we have for you! If you still haven't found what you're looking for, please try a different search term or keyword.";
-$_LANG['domaincheckerunabletooffertld'] = "Unfortunately we are unable to register this TLD at this time";
+$_LANG['domaincheckernomoresuggestions'] = "თქვენთვის სულ ესა გვაქვს! თუკი ჯერაც ვერ იპოვეთ ის, რასაც ეძებდით, შეგიძლია სცადოთ სხვა საძიებო სიტყვები.";
+$_LANG['domaincheckerunabletooffertld'] = "სამწუხაროდ, ამ მომენტისათვის ჩვენ არ შეგვიძლია მსგავსი სასრულის მქონე დომეინის დარეგისტირება.";
 $_LANG['domaincheckerbulkplaceholder'] = "შეგიძლია შეიყვანოთ 20-მდე დომეინი.\nერთ ველზე მიუთითეთ მხოლოდ ერთი სახელწოდება.\n\nმაგალითები:\nhostnodes.com\nhostnodes.net";
 
 $_LANG['domainchecker']['suggestiontakentitle'] = "დომეინი ხელმიუწვდომელია";
-$_LANG['domainchecker']['suggestiontakenmsg'] = "Unfortunately the domain you selected is unavailable. This can sometimes occur if the domain has been registered recently. Please go back and choose another domain.";
+$_LANG['domainchecker']['suggestiontakenmsg'] = "სამწუხაროდ თქვენ მიერ არჩეული დომეინი ხელმიუწვდომელია. ზოგჯერ ასე მაშინ ხდება, როდესაც დომეინი ახლად დარეგისტრირებულია. გთხოვთ, დაბრუნდეთ უკან და მოიძიოთ სხვა დომეინი.";
 $_LANG['domainchecker']['suggestiontakenchooseanother'] = "სხვა დომეინის შერჩევა";
 
 $_LANG['domainchecker']['alreadyincarttitle'] = "უკვე კალათშია";
