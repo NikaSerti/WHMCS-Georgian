@@ -1808,7 +1808,7 @@ $_LANG['clientHomePanels']['activeProductsServicesNone'] = "როგორც �
 $_LANG['clientHomePanels']['recentNews'] = "ბოლო განახლებები";
 $_LANG['clientHomePanels']['affiliateProgram'] = "პარტნიორული პროგრამა";
 $_LANG['clientHomePanels']['recentSupportTickets'] = "ბოლო დახმარების ბილეთები.";
-$_LANG['clientHomePanels']['recentSupportTicketsNone'] = "ბილეთი არ გაქვთ გახსნილი. თუკი დახმარება გჭირდებათ, გთხოვთ, <a href=\"submitticket.php\">გახსნათ ბილეთი</a>.";
+$_LANG['clientHomePanels']['recentSupportTicketsNone'] = "ბილეთი არ გაქვთ გახსნილი. თუკი დახმარება გჭირდებათ, შეგიძლიათ, <a href=\"submitticket.php\">გახსნათ ბილეთი</a>.";
 $_LANG['clientHomePanels']['affiliateSummary'] = "თქვენი ამჟამინდელი ბალანსია :commissionBalance. თანხის გასანაღდებლად გჭირდებათ დამატებით :amountUntilWithdrawalLevel .";
 $_LANG['clientHomePanels']['affiliateSummaryWithdrawalReady'] = "ამჟამინდელი ბალანსია :commissionBalance. თქვენ შეგიძლია გაანაღდოთ გამომუშავებული თანხა.";
 
@@ -1882,7 +1882,7 @@ $_LANG['licensingaddon']['reissue'] = "Reissue";
 $_LANG['licensingaddon']['reissuestatusmsg'] = "The Valid Domain, IP and Directory will be detected & saved the next time the license is accessed.";
 $_LANG['licensingaddon']['manageLicense'] = "ლიცენზიების მართვა";
 
-$_LANG['affiliateWithdrawalSummary'] = "თქვენ შეძლებთ თანხის განაღდებას სწორედ მაშინ, როდესაც თქვენს ანგარიშზე მინიმუმ :amountForWithdrawal დაგროვდება.";
+$_LANG['affiliateWithdrawalSummary'] = "თანხის განაღდებას მაშინ შეძლებთ, როდესაც ანგარიშზე მინიმუმ :amountForWithdrawal დაგროვდება.";
 
 $_LANG['projectManagement']['activeProjects'] = "თქვენი აქტიური პროექტები";
 
