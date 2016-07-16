@@ -104,11 +104,8 @@ $_LANG['cartexistingclientlogindesc'] = "ამ შეკვეთის არ�
 $_LANG['cartnameserversdesc'] = "თუკი გსურთ გამოიყენოთ საკუთარი NameServer - მისამართი ქვემოთ შეიყვანეთ. ჩვეულებრივ, ახალ დომეინებს ავტომატურად ჩვენი NameServer ენიჭებათ.";
 $_LANG['cartproductaddons'] = "დამატებითი პროდუქტი";
 $_LANG['cartproductaddonschoosepackage'] = "პაკეტის არჩევა";
-<<<<<<< HEAD
 $_LANG['cartproductaddonsnone'] = "თქვენი სერვისისთვის დანამატები არ არის";
-=======
 $_LANG['cartproductaddonsnone'] = "თქვენ მიერ არჩეული პრუდქტისთვის/სერვისისთვის დამატებით პროდუქტები ხელმიუწვდომელია";
->>>>>>> origin/master
 $_LANG['cartproductconfig'] = "პროდუქტების კონფიგურაცია";
 $_LANG['cartproductdesc'] = "The product/service you have chosen has the following configuration options for you to choose from.";
 $_LANG['cartproductdomain'] = "დომეინები";
@@ -228,11 +225,8 @@ $_LANG['clientarealastname'] = "გვარი";
 $_LANG['clientarealastupdated'] = "ბოლოს განახლდა";
 $_LANG['clientarealeaveblank'] = "თუკი არ გსურთ პაროლის შეცვლა - დატოვეთ ცარიელი.";
 $_LANG['clientareamodifydomaincontactinfo'] = "დომეინის საკონტაქტო ინფორმაციის შეცვლა";
-<<<<<<< HEAD
 $_LANG['clientareamodifynameservers'] = "NameServer-ების ცვლილება";
-=======
 $_LANG['clientareamodifynameservers'] = "Nameserver-ების ცვლილება";
->>>>>>> origin/master
 $_LANG['clientareamodifywhoisinfo'] = "WHOIS საკონტაქტო ინფორმაციის შეცვლა";
 $_LANG['clientareanameserver'] = "NameServer";
 
@@ -959,7 +953,7 @@ $_LANG['invoicestotaldue'] = "Total Due";
 $_LANG['masspaytitle'] = "სრული გადახდა";
 $_LANG['masspaydescription'] = "ქვემოთ მოცემულია მონიშნული ინვოისების გადასახადის ჯამი, რომლის გადახდაც გსურთ. გთხოვთ არიჩიოთ გადახდის სასურველი გზა და დააჭირეთ დასტურის ღილაკს.";
 $_LANG['masspayselected'] = "არჩეულის გადახდა";
-$_LANG['masspayall'] = "ყველას გადახდა";
+$_LANG['masspayall'] = "გადახდა";
 $_LANG['masspaymakepayment'] = "გადახდა";
 
 # Version 4.3
@@ -1619,7 +1613,7 @@ $_LANG['billingdetails'] = "საბილინგო დეტალები
 $_LANG['homechooseproductservice'] = "აირჩიეთ პროდუქტი/სერვისი სამართავად:";
 
 $_LANG['invoicesdue'] = "გადასახდელი ინვოისები";
-$_LANG['invoicesduemsg'] = "თქვენ გაქვთ %s გადაუხდელი ინვოისი, რომელთა საერთო გადასახადია %s";
+$_LANG['invoicesduemsg'] = "თქვენ გაქვთ %s გადაუხდელი ინვოისი, რომლის(რომელთა) საერთო გადასახადია %s";
 $_LANG['noinvoicesduemsg'] = "ამჟამად არ არის გადაუხდელი ინვოისები.";
 
 $_LANG['expiringsoon'] = "ვადის გასვლამდე ცოტაღა დარჩა";
@@ -1815,8 +1809,8 @@ $_LANG['clientHomePanels']['recentNews'] = "ბოლო განახლე�
 $_LANG['clientHomePanels']['affiliateProgram'] = "პარტნიორული პროგრამა";
 $_LANG['clientHomePanels']['recentSupportTickets'] = "ბოლო დახმარების ბილეთები.";
 $_LANG['clientHomePanels']['recentSupportTicketsNone'] = "ბილეთი არ გაქვთ გახსნილი. თუკი დახმარება გჭირდებათ, გთხოვთ, <a href=\"submitticket.php\">გახსნათ ბილეთი</a>.";
-$_LANG['clientHomePanels']['affiliateSummary'] = "Your current commission balance is :commissionBalance. You only need another :amountUntilWithdrawalLevel before you can withdraw your earnings.";
-$_LANG['clientHomePanels']['affiliateSummaryWithdrawalReady'] = "Your current commission balance is :commissionBalance. You may withdraw your earnings now.";
+$_LANG['clientHomePanels']['affiliateSummary'] = "თქვენი ამჟამინდელი ბალანსია :commissionBalance. თანხის გასანაღდებლად გჭირდებათ დამატებით :amountUntilWithdrawalLevel .";
+$_LANG['clientHomePanels']['affiliateSummaryWithdrawalReady'] = "ამჟამინდელი ბალანსია :commissionBalance. თქვენ შეგიძლია გაანაღდოთ გამომუშავებული თანხა.";
 
 $_LANG['upgradeNotPossible'] = "Upgrading this product is not possible.  If you believe you've reached this page in error, please notify our support department.  Otherwise, go back and double check your selection.";
 
