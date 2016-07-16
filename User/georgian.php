@@ -1815,8 +1815,8 @@ $_LANG['clientHomePanels']['recentNews'] = "ბოლო განახლე�
 $_LANG['clientHomePanels']['affiliateProgram'] = "პარტნიორული პროგრამა";
 $_LANG['clientHomePanels']['recentSupportTickets'] = "ბოლო დახმარების ბილეთები.";
 $_LANG['clientHomePanels']['recentSupportTicketsNone'] = "ბილეთი არ გაქვთ გახსნილი. თუკი დახმარება გჭირდებათ, გთხოვთ, <a href=\"submitticket.php\">გახსნათ ბილეთი</a>.";
-$_LANG['clientHomePanels']['affiliateSummary'] = "Your current commission balance is :commissionBalance. You only need another :amountUntilWithdrawalLevel before you can withdraw your earnings.";
-$_LANG['clientHomePanels']['affiliateSummaryWithdrawalReady'] = "Your current commission balance is :commissionBalance. You may withdraw your earnings now.";
+$_LANG['clientHomePanels']['affiliateSummary'] = "თქვენი ამჟამინდელი ბალანსია :commissionBalance. თანხის გასანაღდებლად გჭირდებათ დამატებით :amountUntilWithdrawalLevel .";
+$_LANG['clientHomePanels']['affiliateSummaryWithdrawalReady'] = "ამჟამინდელი ბალანსია :commissionBalance. თქვენ შეგიძლია გაანაღდოთ გამომუშავებული თანხა.";
 
 $_LANG['upgradeNotPossible'] = "Upgrading this product is not possible.  If you believe you've reached this page in error, please notify our support department.  Otherwise, go back and double check your selection.";
 
