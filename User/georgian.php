@@ -1661,7 +1661,7 @@ $_LANG['kbviewingarticlestagged'] = "Viewing articles tagged";
 
 $_LANG['domainprivatenameservers'] = "პირადი Nameserver-ები";
 
-$_LANG['transferinadomain'] = "Transfer in a Domain";
+$_LANG['transferinadomain'] = "დომეინების ტრანსფერი";
 
 $_LANG['nodomainextensions'] = "There are no Domain Extensions currently configured for purchase";
 
