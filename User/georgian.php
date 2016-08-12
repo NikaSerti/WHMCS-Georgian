@@ -57,7 +57,7 @@ $_LANG['affiliatesregdate'] = "რეგისტრაციის დრო";
 $_LANG['affiliatesrequestwithdrawal'] = "განაღდების მოთხოვნა";
 $_LANG['affiliatessignupdate'] = "რეგისტრაციის თარიღი";
 $_LANG['affiliatesstatus'] = "სტატუსი";
-$_LANG['affiliatestitle'] = "პარტნიორული პროგრამა";
+$_LANG['affiliatestitle'] = "პარტნ. პროგრამა";
 $_LANG['affiliatesvisitorsreferred'] = "გადმომისამართებულ ვიზიტორთა რაოდენობა";
 $_LANG['affiliateswithdrawalrequestsuccessful'] = "თანხის განაღდების მოთხოვნა დადასტურდა. მოკლე ხანში დაგიკავშირდებიან.";
 $_LANG['affiliateswithdrawn'] = "განაღდებული თანხის რაოდენობა";
@@ -1806,7 +1806,7 @@ $_LANG['clientHomePanels']['domainsExpiringSoonMsg'] = "თქვენ :numberO
 $_LANG['clientHomePanels']['activeProductsServices'] = "თქვენი აქტიური სერვისები";
 $_LANG['clientHomePanels']['activeProductsServicesNone'] = "როგორც ჩანს თქვენ არ გაქვთ აქტიური სერვისი. <a href=\"cart.php\">თქვენ შეგიძლია შეუკვეთოთ ის ამ ბმულზე</a>.";
 $_LANG['clientHomePanels']['recentNews'] = "ბოლო განახლებები";
-$_LANG['clientHomePanels']['affiliateProgram'] = "პარტნიორული პროგრამა";
+$_LANG['clientHomePanels']['affiliateProgram'] = "პარტნ.პროგრამა";
 $_LANG['clientHomePanels']['recentSupportTickets'] = "ბოლო დახმარების ბილეთები.";
 $_LANG['clientHomePanels']['recentSupportTicketsNone'] = "ბილეთი არ გაქვთ გახსნილი. თუკი დახმარება გჭირდებათ, შეგიძლიათ, <a href=\"submitticket.php\">გახსნათ ბილეთი</a>.";
 $_LANG['clientHomePanels']['affiliateSummary'] = "თქვენი ამჟამინდელი ბალანსია :commissionBalance. თანხის გასანაღდებლად გჭირდებათ დამატებით :amountUntilWithdrawalLevel .";
