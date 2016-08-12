@@ -1036,7 +1036,7 @@ $_LANG['cartdomainunavailableoptions'] = "ვწუხვართ, ეს დ�
 $_LANG['cartdomainunavailabletransfer'] = "Please transfer my domain for";
 $_LANG['cartdomainunavailablemanual'] = "მე უკვე ვფლობ ამ დომეინს და განვაახლებ nameserver-ებს.";
 
-$_LANG['cartdomaininvalid'] = "The domain you entered is not valid. Enter only the part after the www. and include the TLD";
+$_LANG['cartdomaininvalid'] = "თქვენ არასწორად შეიყვანეთ დომეინი. შეიყვანეთ მხოლოდ www.-ს შემდგომი ნაწილი, დაბოლოების გარეშე(.com, .net, .org)";
 
 # Version 4.4
 
